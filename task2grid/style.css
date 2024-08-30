@@ -1,0 +1,147 @@
+.dada{
+    border: 1px solid black;
+    min-height: fit-content;
+    height: 100vh;
+}
+.bor{
+    border: 1px solid red;
+}
+.sec1{
+    height: 650px;
+    display: flex;
+justify-content: center;
+align-items: center;   
+}
+.subsec1{
+    /* border: 1px solid black; */
+    height: 90%;
+    width: 90%;
+/* margin: auto; */
+}
+.imgparent{
+    width: auto;
+}
+img{
+    width: 90px;
+    border: 1px solid black;
+    height: 50px;
+    margin-left: 20px;
+    
+}
+.imgs{
+    height: 70px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between; 
+    /* border: 2px solid red; */
+}
+.headingandtext{
+    /* border: 1px solid green; */
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.inptbtn{
+    margin-left: 20px;
+
+    margin-top: 10px;
+}
+input{
+    height: 60px;
+    width: 80%;
+}
+.inp1{
+    border: 1px solid blueviolet;
+}
+.btnlogin{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    margin-top: 10px;
+    width: 77%;
+    margin-left: 20px;
+}
+.line{
+    margin-top: 20px;
+    text-align: center;
+}
+.sec2{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.sec2parent{
+    /* border: 2px solid red; */
+    width: 70%;
+    height: 500px;
+}
+
+.coma{
+    border-radius: 90px;
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+}
+.awapc{
+    border-radius: 90px;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+}
+.picprnt{
+    display: flex;
+    /* border: 2px solid red; */
+    color: white;
+    margin-left: 80px;
+}
+.awais{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.managr{
+    font-size: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.drmhead{
+    /* background-color: aqua;/ */
+    color: white;
+    font-size: 80px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.lrmtext{
+    /* border: 2px solid red; */
+    color: white;
+    font-size: 10px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
